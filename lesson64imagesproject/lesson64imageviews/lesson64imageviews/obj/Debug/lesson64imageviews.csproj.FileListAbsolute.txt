@@ -1,0 +1,9 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson64imagesproject\lesson64imageviews\lesson64imageviews\bin\Debug\lesson64imageviews.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson64imagesproject\lesson64imageviews\lesson64imageviews\bin\Debug\lesson64imageviews.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson64imagesproject\lesson64imageviews\lesson64imageviews\bin\Debug\lesson64imageviews.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson64imagesproject\lesson64imageviews\lesson64imageviews\obj\Debug\lesson64imageviews.Form1.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson64imagesproject\lesson64imageviews\lesson64imageviews\obj\Debug\lesson64imageviews.Properties.Resources.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson64imagesproject\lesson64imageviews\lesson64imageviews\obj\Debug\lesson64imageviews.csproj.GenerateResource.Cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson64imagesproject\lesson64imageviews\lesson64imageviews\obj\Debug\lesson64imageviews.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson64imagesproject\lesson64imageviews\lesson64imageviews\obj\Debug\lesson64imageviews.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson64imagesproject\lesson64imageviews\lesson64imageviews\obj\Debug\lesson64imageviews.csprojResolveAssemblyReference.cache
