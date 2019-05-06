@@ -1,0 +1,9 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson65copyfiles\lesson65copyfiles\lesson65copyfiles\bin\Debug\lesson65copyfiles.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson65copyfiles\lesson65copyfiles\lesson65copyfiles\bin\Debug\lesson65copyfiles.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson65copyfiles\lesson65copyfiles\lesson65copyfiles\bin\Debug\lesson65copyfiles.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson65copyfiles\lesson65copyfiles\lesson65copyfiles\obj\Debug\lesson65copyfiles.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson65copyfiles\lesson65copyfiles\lesson65copyfiles\obj\Debug\lesson65copyfiles.Form1.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson65copyfiles\lesson65copyfiles\lesson65copyfiles\obj\Debug\lesson65copyfiles.Properties.Resources.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson65copyfiles\lesson65copyfiles\lesson65copyfiles\obj\Debug\lesson65copyfiles.csproj.GenerateResource.Cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson65copyfiles\lesson65copyfiles\lesson65copyfiles\obj\Debug\lesson65copyfiles.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson65copyfiles\lesson65copyfiles\lesson65copyfiles\obj\Debug\lesson65copyfiles.pdb
