@@ -1,0 +1,9 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson15whileloops\lesson15whileloops\lesson15whileloops\bin\Debug\lesson15whileloops.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson15whileloops\lesson15whileloops\lesson15whileloops\bin\Debug\lesson15whileloops.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson15whileloops\lesson15whileloops\lesson15whileloops\bin\Debug\lesson15whileloops.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson15whileloops\lesson15whileloops\lesson15whileloops\obj\Debug\lesson15whileloops.Form1.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson15whileloops\lesson15whileloops\lesson15whileloops\obj\Debug\lesson15whileloops.Properties.Resources.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson15whileloops\lesson15whileloops\lesson15whileloops\obj\Debug\lesson15whileloops.csproj.GenerateResource.Cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson15whileloops\lesson15whileloops\lesson15whileloops\obj\Debug\lesson15whileloops.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson15whileloops\lesson15whileloops\lesson15whileloops\obj\Debug\lesson15whileloops.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson15whileloops\lesson15whileloops\lesson15whileloops\obj\Debug\lesson15whileloops.csprojResolveAssemblyReference.cache
