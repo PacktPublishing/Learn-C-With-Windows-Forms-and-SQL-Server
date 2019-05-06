@@ -1,0 +1,8 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson38linq\lesson38lingpart1\lesson38lingpart1\bin\Debug\lesson38lingpart1.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson38linq\lesson38lingpart1\lesson38lingpart1\bin\Debug\lesson38lingpart1.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson38linq\lesson38lingpart1\lesson38lingpart1\bin\Debug\lesson38lingpart1.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson38linq\lesson38lingpart1\lesson38lingpart1\obj\Debug\lesson38lingpart1.Form1.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson38linq\lesson38lingpart1\lesson38lingpart1\obj\Debug\lesson38lingpart1.Properties.Resources.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson38linq\lesson38lingpart1\lesson38lingpart1\obj\Debug\lesson38lingpart1.csproj.GenerateResource.Cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson38linq\lesson38lingpart1\lesson38lingpart1\obj\Debug\lesson38lingpart1.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson38linq\lesson38lingpart1\lesson38lingpart1\obj\Debug\lesson38lingpart1.pdb
