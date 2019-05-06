@@ -1,0 +1,9 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson8mathwithtwo\lesson8mathwith2variables\lesson8averages\lesson8averages\bin\Debug\lesson8averages.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson8mathwithtwo\lesson8mathwith2variables\lesson8averages\lesson8averages\bin\Debug\lesson8averages.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson8mathwithtwo\lesson8mathwith2variables\lesson8averages\lesson8averages\bin\Debug\lesson8averages.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson8mathwithtwo\lesson8mathwith2variables\lesson8averages\lesson8averages\obj\Debug\lesson8averages.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson8mathwithtwo\lesson8mathwith2variables\lesson8averages\lesson8averages\obj\Debug\lesson8averages.Form1.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson8mathwithtwo\lesson8mathwith2variables\lesson8averages\lesson8averages\obj\Debug\lesson8averages.Properties.Resources.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson8mathwithtwo\lesson8mathwith2variables\lesson8averages\lesson8averages\obj\Debug\lesson8averages.csproj.GenerateResource.Cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson8mathwithtwo\lesson8mathwith2variables\lesson8averages\lesson8averages\obj\Debug\lesson8averages.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson8mathwithtwo\lesson8mathwith2variables\lesson8averages\lesson8averages\obj\Debug\lesson8averages.pdb
