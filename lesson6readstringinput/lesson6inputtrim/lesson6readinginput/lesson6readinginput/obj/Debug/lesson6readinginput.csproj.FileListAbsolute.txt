@@ -1,0 +1,8 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson6readstringinput\lesson6inputtrim\lesson6readinginput\lesson6readinginput\bin\Debug\lesson6readinginput.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson6readstringinput\lesson6inputtrim\lesson6readinginput\lesson6readinginput\bin\Debug\lesson6readinginput.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson6readstringinput\lesson6inputtrim\lesson6readinginput\lesson6readinginput\bin\Debug\lesson6readinginput.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson6readstringinput\lesson6inputtrim\lesson6readinginput\lesson6readinginput\obj\Debug\lesson6readinginput.Form1.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson6readstringinput\lesson6inputtrim\lesson6readinginput\lesson6readinginput\obj\Debug\lesson6readinginput.Properties.Resources.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson6readstringinput\lesson6inputtrim\lesson6readinginput\lesson6readinginput\obj\Debug\lesson6readinginput.csproj.GenerateResource.Cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson6readstringinput\lesson6inputtrim\lesson6readinginput\lesson6readinginput\obj\Debug\lesson6readinginput.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson6readstringinput\lesson6inputtrim\lesson6readinginput\lesson6readinginput\obj\Debug\lesson6readinginput.pdb
