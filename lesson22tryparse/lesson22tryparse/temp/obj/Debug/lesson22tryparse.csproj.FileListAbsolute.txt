@@ -1,0 +1,3 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson22tryparse\temp\temp\bin\Debug\temp.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson22tryparse\temp\temp\obj\Debug\temp.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson22tryparse\temp\temp\obj\Debug\temp.pdb
