@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApplication4
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //use string data type for storing sequences of characters between double quotes
+            string hairColor = "Blonde";
+            //int is short for integer, use this to store whole number values, not values like 5.65
+            int arrowCount = 1;
+            //true or false kinds of quantities are represented using bool data type
+            bool hasArmor = true;
+            //use decimal data type for storing monetary values
+            decimal price = 2.99M;
+            //double data type is good for storing measured values 
+            double height = 6.5;
+            label1.Text = $"Hair Color: {hairColor}\nArrows: {arrowCount}\nHas Armor: {hasArmor}\nPrice: {price}\nHeight: {height}";
+        }
+    }
+}

@@ -1,0 +1,38 @@
+1. Create database AddressBook
+2. Run Table creation script
+3. Verify table has been created
+4. Copy SampleBizContacts.csv to c:
+5. Insert sample data
+6. Verify data has been imported
+
+CREATE TABLE BizContacts
+(
+ID int IDENTITY(1,1) PRIMARY KEY,
+Date_Added DATETIME NOT NULL,
+Company NVARCHAR(500),
+Website NVARCHAR(1000),
+Title NVARCHAR(50),
+First_Name NVARCHAR(500),
+Last_Name NVARCHAR(500),
+Address NVARCHAR(1000),
+City NVARCHAR(1000),
+State NVARCHAR(200),
+Zip CHAR(5),
+Email NVARCHAR(1000),
+Mobile NVARCHAR(50),
+Notes NText,
+)
+
+USE AddressBook
+SELECT * FROM BizContacts
+
+Use AddressBook
+BULK INSERT BizContacts
+FROM 'C:\SampleBizContacts.csv'
+WITH
+(
+FIRSTROW = 2,
+FIELDTERMINATOR = ';',
+ROWTERMINATOR = '\n'
+)
+GO

@@ -1,0 +1,9 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson40filesaving\lesson40filesaving\lesson40filesaving\bin\Debug\lesson40filesaving.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson40filesaving\lesson40filesaving\lesson40filesaving\bin\Debug\lesson40filesaving.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson40filesaving\lesson40filesaving\lesson40filesaving\bin\Debug\lesson40filesaving.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson40filesaving\lesson40filesaving\lesson40filesaving\obj\Debug\lesson40filesaving.Form1.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson40filesaving\lesson40filesaving\lesson40filesaving\obj\Debug\lesson40filesaving.Properties.Resources.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson40filesaving\lesson40filesaving\lesson40filesaving\obj\Debug\lesson40filesaving.csproj.GenerateResource.Cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson40filesaving\lesson40filesaving\lesson40filesaving\obj\Debug\lesson40filesaving.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson40filesaving\lesson40filesaving\lesson40filesaving\obj\Debug\lesson40filesaving.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson40filesaving\lesson40filesaving\lesson40filesaving\obj\Debug\lesson40filesaving.csprojResolveAssemblyReference.cache

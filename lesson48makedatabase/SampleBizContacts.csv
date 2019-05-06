@@ -1,0 +1,5 @@
+Id;Date Entered;Company;Website;Title;First Name;Last Name;Address;City;State;Zip;Email;Mobile;Notes
+1;08/11/16;City of Cincinnati;www.gov.gov;Mr.;Mike;Smith;123 Main St.;Cincinnati;OH;44663;mike@abc.com;555-123-1234;7/22/16 Notes
+2;08/12/16;XYZ Co.;www.xyz.com;Mr.;Bob;Price;7383 Roehampton Lane;Bear;DE;19701;BobPrice@xyz.com;555-555-3231;8/2/16 Met at a conference
+3;08/12/16;ABC Co.;www.abc.com;Ms.;Annette;Brown;372 Theatre Road;Fuquay Varina;NC;27526;aBrown@abc.com;555-234-2342;8/2/16 Met at a conference
+4;08/12/16;Fun Toys Inc.;www.funtoys.com;Ms.;Amy;Baker;7309 Del Monte Ave.;Christiansburg;VA;24073;amy@funtoys.com;555-849-2923;8/2/16 Met at a conference
