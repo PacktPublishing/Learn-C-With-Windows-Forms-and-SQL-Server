@@ -1,0 +1,9 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson23operatrsthatevalute\temp\temp\bin\Debug\temp.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson23operatrsthatevalute\temp\temp\bin\Debug\temp.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson23operatrsthatevalute\temp\temp\bin\Debug\temp.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson23operatrsthatevalute\temp\temp\obj\Debug\temp.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson23operatrsthatevalute\temp\temp\obj\Debug\temp.Form1.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson23operatrsthatevalute\temp\temp\obj\Debug\temp.Properties.Resources.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson23operatrsthatevalute\temp\temp\obj\Debug\temp.csproj.GenerateResource.Cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson23operatrsthatevalute\temp\temp\obj\Debug\temp.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson23operatrsthatevalute\temp\temp\obj\Debug\temp.pdb

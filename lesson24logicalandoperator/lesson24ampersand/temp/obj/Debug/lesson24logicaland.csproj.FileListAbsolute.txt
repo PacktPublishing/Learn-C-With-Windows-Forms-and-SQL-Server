@@ -1,0 +1,9 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson24logicalandoperator\temp\temp\bin\Debug\temp.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson24logicalandoperator\temp\temp\obj\Debug\temp.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson24logicalandoperator\temp\temp\obj\Debug\temp.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson24logicalandoperator\temp\temp\bin\Debug\temp.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson24logicalandoperator\temp\temp\bin\Debug\temp.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson24logicalandoperator\temp\temp\obj\Debug\lesson24logicaland.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson24logicalandoperator\temp\temp\obj\Debug\temp.Form1.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson24logicalandoperator\temp\temp\obj\Debug\temp.Properties.Resources.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson24logicalandoperator\temp\temp\obj\Debug\lesson24logicaland.csproj.GenerateResource.Cache
