@@ -1,0 +1,9 @@
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson18foreachloops\lesson18forloops\lesson18forloops\bin\Debug\lesson18forloops.exe.config
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson18foreachloops\lesson18forloops\lesson18forloops\bin\Debug\lesson18forloops.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson18foreachloops\lesson18forloops\lesson18forloops\bin\Debug\lesson18forloops.pdb
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson18foreachloops\lesson18forloops\lesson18forloops\obj\Debug\lesson18forloops.csprojResolveAssemblyReference.cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson18foreachloops\lesson18forloops\lesson18forloops\obj\Debug\lesson18forloops.Form1.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson18foreachloops\lesson18forloops\lesson18forloops\obj\Debug\lesson18forloops.Properties.Resources.resources
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson18foreachloops\lesson18forloops\lesson18forloops\obj\Debug\lesson18forloops.csproj.GenerateResource.Cache
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson18foreachloops\lesson18forloops\lesson18forloops\obj\Debug\lesson18forloops.exe
+C:\Users\towsi\OneDrive\udemy\csharpwithforms2015\lesson18foreachloops\lesson18forloops\lesson18forloops\obj\Debug\lesson18forloops.pdb
