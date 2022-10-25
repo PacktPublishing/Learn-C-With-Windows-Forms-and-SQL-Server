@@ -43,3 +43,7 @@ N/A
 * [Hands-On SQL Server 2019 Big Data Clusters with Spark [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-sql-server-2019-big-data-clusters-spark-video)
 
 * [Introduction to MySQL With Node.js - Learn to Use MySQL with Node [Video]](https://www.packtpub.com/application-development/introduction-mysql-nodejs-learn-use-mysql-node-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788990356">https://packt.link/free-ebook/9781788990356 </a> </p>
